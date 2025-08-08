@@ -64,6 +64,11 @@ PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-vsftpd-zh-cn"
 PACKAGES="$PACKAGES luci-proto-wireguard"
 PACKAGES="$PACKAGES luci-i18n-verysync-zh-cn"
+PACKAGES="$PACKAGES kmod-mt792x-common"
+PACKAGES="$PACKAGES kmod-mt7921e"
+PACKAGES="$PACKAGES kmod-mt7922-firmware"
+PACKAGES="$PACKAGES kmod-mt7921-firmware"
+PACKAGES="$PACKAGES kmod-mt7921-common"
 # 代理工具
 PACKAGES="$PACKAGES luci-app-openclash"
 # 判断是否需要编译 Docker 插件
