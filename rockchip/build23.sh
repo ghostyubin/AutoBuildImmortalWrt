@@ -62,7 +62,7 @@ PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-vsftpd-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-wireguard-zh-cn"
+PACKAGES="$PACKAGES luci-proto-wireguard"
 PACKAGES="$PACKAGES luci-i18n-verysync-zh-cn"
 # 代理工具
 PACKAGES="$PACKAGES luci-app-openclash"
